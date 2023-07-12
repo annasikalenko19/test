@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 tiger
 tiger 
 tiger
 
+=======
+tiger
+>>>>>>> parent of 690eb3e (Reverted2 commit of animal folder)
